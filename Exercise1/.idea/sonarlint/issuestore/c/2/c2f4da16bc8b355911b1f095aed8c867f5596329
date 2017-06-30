@@ -1,0 +1,7 @@
+
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡şÏÖøÿÿÿÿ8Äêë¬Ï+
+psquid:UselessImportCheck"GRemove this unused import 'com.wipro.training.hibernate.entity.Course'.(¦µ•×8Äêë¬Ï+
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(¾„Ÿùÿÿÿÿ
+qsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.DefaultDAO'.(¨ï‹8Äêë¬Ï+
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Äêë¬Ï+

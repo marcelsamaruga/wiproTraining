@@ -1,0 +1,9 @@
+
+Dsquid:S2160"*Override this superclass' "equals" method.(Š·û¨úÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(ÇÓæâıÿÿÿÿ
+Lsquid:S1213"8Move this variable to comply with Java Code Conventions.(èú^
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(Ğ‡¤°
+Ysquid:UselessImportCheck"7Remove this unused import 'javax.persistence.OneToOne'.(Ø½ïâ
+Vsquid:UselessImportCheck"5Remove this unused import 'javax.persistence.Column'.(ìûæH
+\squid:UselessImportCheck"5Remove this unused import 'javax.persistence.Entity'.(úƒßıûÿÿÿÿ
+[squid:UselessImportCheck"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á

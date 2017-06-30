@@ -1,0 +1,10 @@
+
+csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+msquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ª½Æ™
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+Qsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+isquid:UselessImportCheck"GRemove this unused import 'com.wipro.training.hibernate.entity.Course'.(¦µ•×
+Nsquid:S1118":Add a private constructor to hide the implicit public one.(Öˆ„	
