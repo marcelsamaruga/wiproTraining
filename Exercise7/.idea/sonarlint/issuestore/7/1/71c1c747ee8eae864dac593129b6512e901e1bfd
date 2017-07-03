@@ -1,9 +1,9 @@
 
-Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(ßÏÉİûÿÿÿÿ
-Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(•ö³ıÿÿÿÿ
+Gsquid:S1948"-Make "examResults" transient or serializable.(‚±Üşúÿÿÿÿ
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(Ë¥¼
 Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(‚±Üşúÿÿÿÿ
 Msquid:S1213"8Move this variable to comply with Java Code Conventions.(ã¼€
-Gsquid:S1948"-Make "examResults" transient or serializable.(‚±Üşúÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(•ö³ıÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(ßÏÉİûÿÿÿÿ
 Dsquid:S2160"*Override this superclass' "equals" method.(ƒºÓáùÿÿÿÿ
 _squid:UselessImportCheck"8Remove this unused import 'javax.persistence.Transient'.(Õ„¹ùÿÿÿÿÿ
-Msquid:S1213"8Move this variable to comply with Java Code Conventions.(Ë¥¼

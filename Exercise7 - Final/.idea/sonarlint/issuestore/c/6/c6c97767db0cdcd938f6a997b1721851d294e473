@@ -1,12 +1,12 @@
 
-Ysquid:S1854"=Remove this useless assignment to local variable "courseDAO".(¿æ…8ë£¸´Ï+
-Osquid:S1118":Add a private constructor to hide the implicit public one.(Æ²Š¥
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ª½Æ™8ü˜³´Ï+
-Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-msquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ
-csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
-psquid:UselessImportCheck"GRemove this unused import 'com.wipro.training.hibernate.entity.Course'.(¦µ•×8ë£¸´Ï+
-Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ë£¸´Ï+
-Jsquid:S1481".Remove this unused "courseDAO" local variable.(¿æ…8ë£¸´Ï+
 Qsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Rsquid:S1854"=Remove this useless assignment to local variable "courseDAO".(¿æ…
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(Æ²Š¥
+isquid:UselessImportCheck"GRemove this unused import 'com.wipro.training.hibernate.entity.Course'.(¦µ•×
+msquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ª½Æ™
+Csquid:S1481".Remove this unused "courseDAO" local variable.(¿æ…

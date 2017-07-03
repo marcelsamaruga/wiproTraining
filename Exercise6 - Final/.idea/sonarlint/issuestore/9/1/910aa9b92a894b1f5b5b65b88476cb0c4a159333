@@ -1,8 +1,8 @@
 
-Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(åõò¹ıÿÿÿÿ
-\squid:UselessImportCheck":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê
-[squid:UselessImportCheck"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á
-Lsquid:S1213"8Move this variable to comply with Java Code Conventions.(Ç¹… 
 Dsquid:S2160"*Override this superclass' "equals" method.(øã ¤ÿÿÿÿÿ
+Lsquid:S1213"8Move this variable to comply with Java Code Conventions.(Ç¹… 
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(åõò¹ıÿÿÿÿ
 Msquid:S1213"8Move this variable to comply with Java Code Conventions.(™ÿš
 _squid:UselessImportCheck"8Remove this unused import 'javax.persistence.JoinTable'.(ùö±µùÿÿÿÿ
+\squid:UselessImportCheck":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê
+[squid:UselessImportCheck"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á

@@ -22,13 +22,13 @@ public class Exercise4Final {
         student.setRegistrationNumber(01);
 
         ExamResult examResult = new ExamResult();
-        examResult.setId( Math.round( Math.random()*100 ) );
+        examResult.setId( Math.round( Math.random()*1000 ) );
         examResult.setExamDate(Calendar.getInstance().getTime() );
         examResult.setExamLocation("Exam1");
         examResult.setMark(1);
 
         ExamResult examResult2 = new ExamResult();
-        examResult2.setId( Math.round( Math.random()*100 ) );
+        examResult2.setId( Math.round( Math.random()*1000 ) );
         examResult2.setExamDate(Calendar.getInstance().getTime() );
         examResult2.setExamLocation("Exam2");
         examResult2.setMark(2);

@@ -1,0 +1,13 @@
+
+msquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ğß„—8ŸÌ¯Ğ+
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(‘À ˆúÿÿÿÿ
+csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+psquid:UselessImportCheck"GRemove this unused import 'com.wipro.training.hibernate.entity.Course'.(¦µ•×8’²º¯Ğ+
+qsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.DefaultDAO'.(¨ï‹8Íò¯Ğ+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ôêï‚ÿÿÿÿÿ8•ÉÄ¯Ğ+
+zsquid:UselessImportCheck"LRemove this unused import 'com.wipro.training.hibernate.entity.Scholarship'.(ò³òùÿÿÿÿ8Íò¯Ğ+
+Qsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´

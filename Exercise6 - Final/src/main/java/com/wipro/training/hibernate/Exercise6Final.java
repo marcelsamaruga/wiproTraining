@@ -22,7 +22,7 @@ public class Exercise6Final {
         Course course = (Course) courseDAO.find(1L);
 
         System.out.println("\n**************************************\n");
-        //System.out.print( course.getStudents() );
+        System.out.print( course.getStudents() );
 
 
         System.exit(0);

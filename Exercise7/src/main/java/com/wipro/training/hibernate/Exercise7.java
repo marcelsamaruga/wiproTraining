@@ -18,27 +18,7 @@ public class Exercise7 {
 
     public static void main(String args[]) {
 
-        DefaultDAO scholarshipDAO = new DefaultDAO(Scholarship.class);
-        StudentDAO studentDAO = new StudentDAO();
 
-        Scholarship scholarship = new Scholarship();
-        scholarship.setDescription("scholarship");
-        scholarship.setAmount(50);
-
-        // how to save the scholarship object removing the line below
-        scholarshipDAO.save( scholarship );
-
-        Student student = new Student();
-        student.setName("New Student");
-        student.setRegistrationNumber(2);
-        student.setScholarship(scholarship);
-
-        studentDAO.save(student);
-
-
-        System.out.print(student.toString());
-
-        System.exit(0);
     }
 
 }

@@ -25,7 +25,7 @@ public class Exercise5Final {
 
         course.setStudents(studentList);
 
-        courseDAO.merge(course);
+        studentDAO.merge(studentList.get(0));
 
         //
         List<Course> listCourse = courseDAO.findAll();
