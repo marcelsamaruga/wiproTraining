@@ -16,19 +16,18 @@ public class Exercise4Final {
     public static void main(String args[]) {
 
         DefaultDAO defaultDAO = new DefaultDAO(Student.class);
+        DefaultDAO defaultDAO2 = new DefaultDAO(ExamResult.class);
 
         Student student = new Student();
         student.setName("Marcel - ExamResult");
         student.setRegistrationNumber(01);
 
         ExamResult examResult = new ExamResult();
-        examResult.setId( Math.round( Math.random()*1000 ) );
         examResult.setExamDate(Calendar.getInstance().getTime() );
         examResult.setExamLocation("Exam1");
         examResult.setMark(1);
 
         ExamResult examResult2 = new ExamResult();
-        examResult2.setId( Math.round( Math.random()*1000 ) );
         examResult2.setExamDate(Calendar.getInstance().getTime() );
         examResult2.setExamLocation("Exam2");
         examResult2.setMark(2);

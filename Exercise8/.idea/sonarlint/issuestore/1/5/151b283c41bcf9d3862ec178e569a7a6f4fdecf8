@@ -1,38 +1,38 @@
 
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—8ïºì­Ğ+
-jsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.entity.Student'.(‚¦ËÓ
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ8ïºì­Ğ+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ñŸÓà8ö÷Ñ­Ğ+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—8‹å­Ğ+
-csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—8•øÜ­Ğ+
-Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—8ö÷Ñ­Ğ+
-ssquid:UselessImportCheck"LRemove this unused import 'com.wipro.training.hibernate.entity.Scholarship'.(ò³òùÿÿÿÿ
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ8•øÜ­Ğ+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—8üò´­Ğ+
-osquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.StudentDAO'.(Ö˜Áüÿÿÿÿ
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ˆ„ÜÔ8Í©­Ğ+
-Qsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ñŸÓà
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ˆ„ÜÔ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—
 Tsquid:S1118":Add a private constructor to hide the implicit public one.(ş±™Üıÿÿÿÿ
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ˆ„ÜÔ8ïğ­Ğ+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ8ö÷Ñ­Ğ+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ñŸÓà8ïğ­Ğ+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ8ö÷Ñ­Ğ+
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ
+csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+osquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.StudentDAO'.(Ö˜Áüÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—
+ssquid:UselessImportCheck"LRemove this unused import 'com.wipro.training.hibernate.entity.Scholarship'.(ò³òùÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ñŸÓà
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ˆ„ÜÔ
 msquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ8‹å­Ğ+
+jsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.entity.Student'.(‚¦ËÓ
+Qsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
 Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Èª—
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ùĞŸÖ

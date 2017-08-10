@@ -10,6 +10,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.NamedQuery;
 import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
+import javax.persistence.Transient;
 
 import com.google.common.base.MoreObjects;
 
@@ -44,7 +45,7 @@ public class Student extends BaseEntity {
 
 	private List<ExamResult> examResults;
 
-	@ManyToMany(mappedBy = "students")
+	@Transient
 	private List<Course> courses;
 
 	public Integer getRegistrationNumber() {
@@ -69,6 +70,14 @@ public class Student extends BaseEntity {
 
 	public void setExamResults(final List<ExamResult> examResults) {
 		this.examResults = examResults;
+	}
+
+	public Scholarship getScholarship() {
+		return scholarship;
+	}
+
+	public void setScholarship(Scholarship scholarship) {
+		this.scholarship = scholarship;
 	}
 
 	@Override

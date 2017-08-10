@@ -1,12 +1,0 @@
-
-Dsquid:S2160"*Override this superclass' "equals" method.(ƒºÓáùÿÿÿÿ
-Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(ßÏÉİûÿÿÿÿ
-Msquid:S1213"8Move this variable to comply with Java Code Conventions.(Ë¥¼
-Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(•ö³ıÿÿÿÿ
-Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(‚±Üşúÿÿÿÿ
-Msquid:S1213"8Move this variable to comply with Java Code Conventions.(ã¼€
-Ysquid:UselessImportCheck"7Remove this unused import 'javax.persistence.OneToOne'.(Ø½ïâ
-\squid:UselessImportCheck"5Remove this unused import 'javax.persistence.Entity'.(úƒßıûÿÿÿÿ
-`squid:UselessImportCheck"9Remove this unused import 'javax.persistence.NamedQuery'.(¢Ş‚Çşÿÿÿÿ
-Zsquid:UselessImportCheck"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿
-Gsquid:S1948"-Make "examResults" transient or serializable.(‚±Üşúÿÿÿÿ

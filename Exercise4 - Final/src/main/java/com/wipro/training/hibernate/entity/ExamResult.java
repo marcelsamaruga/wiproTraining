@@ -16,10 +16,12 @@ import javax.persistence.Transient;
  * @author Robson Enke <robsonenke@gmail.com>
  */
 @Entity
-public class ExamResult {
+public class ExamResult extends BaseEntity {
+	private static final long serialVersionUID = 8506212579379285827L;
 
-	@Id
-	private Long id;
+	public ExamResult() {
+		super();
+	}
 
 	@Column(name = "exam_date")
 	@Temporal(TemporalType.DATE)
@@ -33,14 +35,6 @@ public class ExamResult {
 
 	@Transient
 	private String examLocation;
-
-	public Long getId() {
-		return id;
-	}
-
-	public void setId(final Long id) {
-		this.id = id;
-	}
 
 	public Date getExamDate() {
 		return examDate;

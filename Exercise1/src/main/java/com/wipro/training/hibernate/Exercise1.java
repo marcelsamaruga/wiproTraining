@@ -12,7 +12,18 @@ public class Exercise1 {
 
     public static void main(String args[]) {
 
+        DefaultDAO defaultDAO = new DefaultDAO(Course.class);
 
+        Course course = new Course();
+        course.setCourseNumber("001");
+        course.setTitle("Title");
+
+        defaultDAO.insert(course);
+
+        List<Course> listCourse = defaultDAO.findAll();
+        System.out.print(listCourse.size());
+
+        System.exit(0);
 
     }
 

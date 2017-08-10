@@ -1,0 +1,9 @@
+
+Nsquid:S1118":Add a private constructor to hide the implicit public one.(´é
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+tsquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ8¥ÔğÛ+
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¥ÔğÛ+
+jsquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ8¥ÔğÛ+
+Xsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´8¥ÔğÛ+
+qsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.DefaultDAO'.(¨ï‹8¥ÔğÛ+
+qsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.entity.Student'.(‚¦ËÓ8¥ÔğÛ+

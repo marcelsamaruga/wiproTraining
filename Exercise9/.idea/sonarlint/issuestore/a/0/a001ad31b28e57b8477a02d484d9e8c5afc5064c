@@ -1,0 +1,14 @@
+
+Zsquid:UnusedPrivateMethod"2Remove this unused private "printStudents" method.(ÒâŞ“úÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ôêï‚ÿÿÿÿÿ
+Dsquid:S1481"/Remove this unused "studentDAO" local variable.(ØÖ·ü
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(‘À ˆúÿÿÿÿ
+Ssquid:S1854">Remove this useless assignment to local variable "studentDAO".(ØÖ·ü
+msquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ
+ssquid:UselessImportCheck"LRemove this unused import 'com.wipro.training.hibernate.entity.Scholarship'.(ò³òùÿÿÿÿ
+csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+Qsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+jsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.DefaultDAO'.(¨ï‹
+isquid:UselessImportCheck"GRemove this unused import 'com.wipro.training.hibernate.entity.Course'.(¦µ•×

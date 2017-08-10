@@ -1,13 +1,12 @@
 
-Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-Nsquid:S1118":Add a private constructor to hide the implicit public one.(Öˆ„	
-qsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.DefaultDAO'.(¨ï‹8½ñ†­Ğ+
-msquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ
-qsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.entity.Student'.(‚¦ËÓ8½ñ†­Ğ+
-csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
-isquid:UselessImportCheck"GRemove this unused import 'com.wipro.training.hibernate.entity.Course'.(¦µ•×
-¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡şÏÖøÿÿÿÿ8½ñ†­Ğ+
-zsquid:UselessImportCheck"LRemove this unused import 'com.wipro.training.hibernate.entity.Scholarship'.(ò³òùÿÿÿÿ8½ñ†­Ğ+
-vsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.StudentDAO'.(Ö˜Áüÿÿÿÿ8½ñ†­Ğ+
-Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
 Qsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+jsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.entity.Student'.(‚¦ËÓ
+jsquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.DefaultDAO'.(¨ï‹
+osquid:UselessImportCheck"HRemove this unused import 'com.wipro.training.hibernate.dao.StudentDAO'.(Ö˜Áüÿÿÿÿ
+isquid:UselessImportCheck"GRemove this unused import 'com.wipro.training.hibernate.entity.Course'.(¦µ•×
+ssquid:UselessImportCheck"LRemove this unused import 'com.wipro.training.hibernate.entity.Scholarship'.(ò³òùÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+msquid:UselessImportCheck"KRemove this unused import 'com.wipro.training.hibernate.entity.ExamResult'.(¡¼Ÿ
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Nsquid:S1118":Add a private constructor to hide the implicit public one.(Öˆ„	

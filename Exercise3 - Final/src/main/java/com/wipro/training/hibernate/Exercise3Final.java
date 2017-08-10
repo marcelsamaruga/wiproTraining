@@ -14,6 +14,7 @@ public class Exercise3Final {
     public static void main(String args[]) {
 
         DefaultDAO defaultDAO = new DefaultDAO(Student.class);
+        DefaultDAO defaultDAO2 = new DefaultDAO(Scholarship.class);
 
         Student student = new Student();
         student.setName("Marcel");
@@ -22,6 +23,9 @@ public class Exercise3Final {
         Scholarship scholarship = new Scholarship();
         scholarship.setAmount(1);
         scholarship.setDescription("desc");
+
+        defaultDAO2.save(scholarship);
+
         student.setScholarship(scholarship);
 
         defaultDAO.save(student);

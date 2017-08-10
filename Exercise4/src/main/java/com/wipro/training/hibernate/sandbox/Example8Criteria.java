@@ -1,9 +1,9 @@
 package com.wipro.training.hibernate.sandbox;
 
-import java.util.List;
-
 import com.wipro.training.hibernate.dao.StudentDAO;
 import com.wipro.training.hibernate.entity.Student;
+
+import java.util.List;
 
 /**
  *

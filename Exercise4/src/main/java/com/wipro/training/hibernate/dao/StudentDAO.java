@@ -1,5 +1,7 @@
 package com.wipro.training.hibernate.dao;
 
+import com.wipro.training.hibernate.entity.Student;
+
 import java.util.List;
 
 import javax.persistence.TypedQuery;
@@ -7,8 +9,6 @@ import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.CriteriaQuery;
 import javax.persistence.criteria.ParameterExpression;
 import javax.persistence.criteria.Root;
-
-import com.wipro.training.hibernate.entity.Student;
 
 /**
  *

@@ -1,8 +1,0 @@
-
-hsquid:UselessImportCheck"ARemove this unused import 'javax.validation.constraints.NotNull'.(áç¥ãüÿÿÿÿ
-Dsquid:S2160"*Override this superclass' "equals" method.(øã ¤ÿÿÿÿÿ
-Msquid:S1213"8Move this variable to comply with Java Code Conventions.(™ÿš
-Lsquid:S1213"8Move this variable to comply with Java Code Conventions.(Ç¹… 
-Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(åõò¹ıÿÿÿÿ
-csquid:UselessImportCheck"5Remove this unused import 'javax.persistence.Entity'.(úƒßıûÿÿÿÿ8„Éù¬Ï+
-]squid:UselessImportCheck"5Remove this unused import 'javax.persistence.Column'.(ìûæH8²—ú¬Ï+

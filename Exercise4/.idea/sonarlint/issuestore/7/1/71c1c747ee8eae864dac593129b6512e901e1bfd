@@ -1,0 +1,9 @@
+
+`squid:UselessImportCheck"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;8¿îğÛ+
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(•ö³ıÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(ßÏÉİûÿÿÿÿ
+Dsquid:S2160"*Override this superclass' "equals" method.(ƒºÓáùÿÿÿÿ
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(ã¼€
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(Ë¥¼
+asquid:UselessImportCheck"9Remove this unused import 'javax.persistence.ManyToMany'.(Àğ½8Ó¨ğÛ+
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(‚±Üşúÿÿÿÿ

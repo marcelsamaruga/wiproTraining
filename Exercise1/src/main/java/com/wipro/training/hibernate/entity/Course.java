@@ -11,7 +11,7 @@ import javax.validation.constraints.NotNull;
  * @since Sep 21, 2015
  * @author Robson Enke <robsonenke@gmail.com>
  */
-@Entity
+
 public class Course extends BaseEntity {
 	private static final long serialVersionUID = 1606445939623655417L;
 
@@ -23,10 +23,9 @@ public class Course extends BaseEntity {
 		super(id);
 	}
 
-	@Column(name = "course_number")
+	//"course_number"
 	private String courseNumber;
 
-	@Column(name = "title")
 	private String title;
 
 	@ManyToMany

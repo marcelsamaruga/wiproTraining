@@ -1,0 +1,8 @@
+
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(³«óøÿÿÿÿ
+Ssquid:UselessImportCheck"1Remove this unused import 'javax.persistence.Id'.(ş¹ŞÜ
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(®ë
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(’öœ¢ıÿÿÿÿ
+fsquid:UselessImportCheck"8Remove this unused import 'javax.persistence.ManyToOne'.(ÇÑ²øÿÿÿÿ8Ø ğÛ+
+?squid:S2160"*Override this superclass' "equals" method.(İœüÖ
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(¤—öö
