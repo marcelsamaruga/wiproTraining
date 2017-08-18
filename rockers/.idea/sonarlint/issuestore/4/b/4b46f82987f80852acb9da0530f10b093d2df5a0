@@ -1,0 +1,17 @@
+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ¹Äêÿÿÿÿÿ8ƒª‹°ß+
+œsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜þ‘w8½„Œ°ß+
+squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8ðÛŠ°ß+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºïÕœÿÿÿÿÿ8½„Œ°ß+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë Ð8™—Œ°ß+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹ÇÃŽ8ŽŽ‹°ß+
+isquid:UselessImportCheck"ARemove this unused import 'org.springframework.util.StringUtils'.(Ðôÿ8½„Œ°ß+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…ðÓúÿÿÿÿ8«å‹°ß+
+usquid:UselessImportCheck"LRemove this unused import 'com.wipro.rockers.repository.IProjectRepository'.(‹ÜÌ–8ðÛŠ°ß+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒÃ®8«å‹°ß+
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8™—Œ°ß+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶‘£¥8’»Œ°ß+
+ksquid:UselessImportCheck"=Remove this unused import 'com.wipro.rockers.entity.Project'.(¡ø…ªøÿÿÿÿ8’»Œ°ß+
+csquid:UselessImportCheck":Remove this unused import 'com.wipro.rockers.entity.User'.(ÂðÅµ8’»Œ°ß+
+fsquid:UselessImportCheck">Remove this unused import 'com.wipro.rockers.entity.Employee'.(†¿Í-8’»Œ°ß+
+hsquid:UselessImportCheck":Remove this unused import 'com.wipro.rockers.entity.Team'.(£öŸÍùÿÿÿÿ8’»Œ°ß+

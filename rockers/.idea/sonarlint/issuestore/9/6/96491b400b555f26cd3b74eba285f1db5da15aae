@@ -1,0 +1,8 @@
+
+fsquid:UselessImportCheck"8Remove this unused import 'javax.persistence.ManyToOne'.(ÇÑ²øÿÿÿÿ8‚ë†°ß+
+]squid:UselessImportCheck"5Remove this unused import 'javax.persistence.Column'.(ìûæH8‚ë†°ß+
+asquid:UselessImportCheck"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿8‚ë†°ß+
+bsquid:UselessImportCheck"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á8‚ë†°ß+
+`squid:UselessImportCheck"7Remove this unused import 'javax.persistence.OneToOne'.(Ø½ïâ8‚ë†°ß+
+csquid:UselessImportCheck"5Remove this unused import 'javax.persistence.Entity'.(úƒßıûÿÿÿÿ8ºº‡°ß+
+bsquid:UselessImportCheck"4Remove this unused import 'javax.persistence.Table'.(˜øŒ“øÿÿÿÿ8ºº‡°ß+

@@ -1,0 +1,6 @@
+
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(§÷öÍüÿÿÿÿ
+nsquid:UselessImportCheck"LRemove this unused import 'com.wipro.rockers.repository.IProjectRepository'.(‹ÜÌ–
+zsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ
+xsquid:UselessImportCheck"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ
+ˆsquid:UselessImportCheck"aRemove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaRepositories'.(²œ˜üÿÿÿÿ
