@@ -1,0 +1,6 @@
+
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(™ÿ
+Lsquid:S1213"8Move this variable to comply with Java Code Conventions.(ΗΉ… 
+hsquid:UselessImportCheck"ARemove this unused import 'javax.validation.constraints.NotNull'.(αη¥γόÿÿÿÿ
+Dsquid:S2160"*Override this superclass' "equals" method.(ψγ ¤ÿÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(ευςΉύÿÿÿÿ
