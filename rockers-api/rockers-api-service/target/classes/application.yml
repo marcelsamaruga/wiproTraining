@@ -1,0 +1,16 @@
+server:
+    port: 9090
+    context-path: /rockers-api
+  
+spring:
+    jpa:
+      hibernate:
+        ddl-auto: update
+
+    datasource:
+      url:  jdbc:h2:target/h2-1
+      driverClassName: org.h2.Driver
+      username: sa
+      password: 
+    
+    

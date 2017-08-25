@@ -1,0 +1,10 @@
+com\rockers\api\model\BaseEntity_.class
+com\rockers\api\model\Team.class
+com\rockers\api\model\Team_.class
+com\rockers\api\model\User_.class
+com\rockers\api\model\Employee_.class
+com\rockers\api\model\Contract_.class
+com\rockers\api\model\BaseEntity.class
+com\rockers\api\model\Employee.class
+com\rockers\api\model\User.class
+com\rockers\api\model\Contract.class
