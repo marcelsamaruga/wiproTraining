@@ -8,6 +8,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import java.util.List;
 
+@Entity
 public class Team extends BaseEntity {
 
 

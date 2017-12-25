@@ -1,12 +1,11 @@
 package com.wipro.rockers.entity;
 
-import org.hibernate.Hibernate;
-
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.MappedSuperclass;
 
+import org.hibernate.Hibernate;
+
+@MappedSuperclass
 public class BaseEntity {
 
     private static final long serialVersionUID = 8747189793690340570L;
@@ -14,10 +13,12 @@ public class BaseEntity {
     public BaseEntity() {
     }
 
+    
     public BaseEntity(final Long id) {
         this.id = id;
     }
 
+    @Id
     protected Long id;
 
     public Long getId() {

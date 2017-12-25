@@ -7,7 +7,8 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import java.util.List;
 
-
+@Entity
+@Table
 public class Project extends BaseEntity {
 
 

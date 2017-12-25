@@ -24,21 +24,21 @@ public class ProjectService {
     /* http://localhost:8080/services/project/findAll */
     @RequestMapping(value = "findAll", method = RequestMethod.GET)
     @ResponseBody public String findAll() {
-
+return "";
 
     }
 
     /* http://localhost:8080/services/project/insert?name=Commercial */
     @RequestMapping(value = "save", method = RequestMethod.GET)
     @ResponseBody public String save(@RequestParam String name) {
-
+    	return "";
 
     }
 
     /* http://localhost:8080/services/project/findById?id=1*/
     @RequestMapping(value = "findById/{id}", method = RequestMethod.GET)
     @ResponseBody public String findById(@PathVariable Long id) {
-
+    	return "";
 
     }
 
@@ -47,7 +47,7 @@ public class ProjectService {
     @RequestMapping(value = "deleteById/{id}", method = RequestMethod.GET)
     @ResponseBody public String deleteById(@PathVariable Long id) {
 
-
+    	return "";
     }
 
 
@@ -55,7 +55,7 @@ public class ProjectService {
     @RequestMapping(value = "startsWith", method = RequestMethod.GET)
     @ResponseBody public String startsWith(@RequestParam String name) {
 
-
+    	return "";
     }
 
 
@@ -63,7 +63,7 @@ public class ProjectService {
     @RequestMapping(value = "findByAllUsingQuery", method = RequestMethod.GET)
     @ResponseBody public String findByAllUsingQuery() {
 
-
+    	return "";
     }
 
 
@@ -71,14 +71,14 @@ public class ProjectService {
     @RequestMapping(value = "findByNameUsingSQLQuery", method = RequestMethod.GET)
     @ResponseBody public String findByNameUsingSQLQuery() {
 
-
+    	return "";
     }
 
 
     /* http://localhost:8080/services/project/doTest?name=1*/
     @RequestMapping(value = "doTest", method = RequestMethod.GET)
     @ResponseBody public String doTest() {
-
+    	return "";
     }
 
 }
